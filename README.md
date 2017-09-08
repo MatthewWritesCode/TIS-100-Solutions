@@ -1,5 +1,5 @@
-#### Save Locations
+### Save Locations
 Linux:  
-`~/.local/share/TIS-00/STEAMIDNUMBER/save/`  
+  `~/.local/share/TIS-00/STEAMIDNUMBER/save/`  
 Windows:  
-`USERPROFILE\Documents\My Games\TIS-100\save`  
+  `USERPROFILE\Documents\My Games\TIS-100\save`  
