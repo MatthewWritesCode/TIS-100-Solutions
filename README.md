@@ -1,12 +1,14 @@
 # TIS-100 Solutions
 
-## Directory for save files
+## Explanation of save directory
 
 Find the `TIS-100` folder for your system. Some potential folder paths are listed below. In the `TIS-100` folder there are sub-directors for managing the users/players/accounts for different save data. If there's more than one, you will need to determine which is the correct directory on your own by peeking into the save files in the `save` folder, or some other method. For example, the Steam version uses the Steam ID of the player (I think...).
 
 For my files, running the GOG version of the game on macOS 13.3.1, my save folder was (note my sub-dir name was simpley `0`):
 
 `$HOME/Library/Application\ Support/TIS-100/0/`
+
+## Save directory table
 
 | System | Location |
 | ------ | -------- |
