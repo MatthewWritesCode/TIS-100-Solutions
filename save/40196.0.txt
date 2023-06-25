@@ -1,0 +1,45 @@
+@0
+
+
+@1
+MOV UP RIGHT
+
+@2
+ST:MOV LEFT ACC
+JEZ A1
+MOV 0 ACC
+MOV 0 DOWN
+SAV
+JMP ST
+A1: SWP
+ADD 1
+MOV ACC DOWN
+SAV
+
+@3
+
+
+@4
+
+
+@5
+ST:MOV UP ACC
+SUB 3
+JLZ S0
+MOV 1 DOWN
+JMP ST
+S0:MOV 0 DOWN
+
+@6
+
+
+@7
+
+
+@8
+
+
+@9
+MOV UP DOWN
+
+@10
